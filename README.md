@@ -1,4 +1,4 @@
-# bouncing-ball
+# Bouncing Ball
 # Description
 MIT xPro Professional Certificate in Coding Boot Camp Project #1: Bouncing Ball Simulation
 # Installation
